@@ -4,7 +4,8 @@
   "description": "Get the current ticker information for cryptocurrencies",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ./tests"
+    "test": "mocha ./tests",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
